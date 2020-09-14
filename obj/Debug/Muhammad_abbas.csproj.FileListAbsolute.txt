@@ -1,0 +1,2 @@
+D:\New folder\MvcCRUD\obj\Debug\MvcCRUD.dll
+D:\New folder\MvcCRUD\obj\Debug\MvcCRUD.pdb
